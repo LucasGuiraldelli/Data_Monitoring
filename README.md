@@ -105,7 +105,6 @@ Para mais informações sobre as entregas e sobre o conteúdo do projeto, veja c
 | **Sprint 02**   | 20/09/21 | 10/10/21 |   ✔️ Realizado  |
 | **Sprint 03**   | 18/10/21 | 07/11/21 |   ✔️ Realizado  |
 | **Sprint 04**   | 08/11/21 | 28/11/21 |   ✔️ Realizado  |
-| **Apresentação final** | 29/11/21 | 05/12/21 |   ❌ Fora do Prazo  |
 
 <br>
 
